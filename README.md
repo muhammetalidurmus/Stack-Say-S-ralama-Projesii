@@ -1,5 +1,5 @@
 
-**push_swap** projesi, verileri sıralamanız gereken oldukça basit ve etkili bir algoritma projesidir. Vermiş olduğunuz 100 lerce binlerce sayıyı kısa süre içerisinde sıralar.
+**push_swap** projesi, verileri sıralamanız gereken oldukça basit ve etkili bir algoritma projesidir. Vermiş olduğunuz yüzlerce binlerce sayıyı kısa süre içerisinde sıralar.
 
 Bu proje iki program içerir:
 - İlk program **checker** olarak adlandırılır ve tamsayı argümanlar alır, standart çıktıda talimatları okur. Talimatlar okunduktan sonra, checker bunları uygular ve tamsayılar sıralanmışsa `OK` olarak gösterir. Aksi takdirde, `KO` olarak gösterir.

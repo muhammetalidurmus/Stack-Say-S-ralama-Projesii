@@ -37,7 +37,7 @@ Not: Yığın işlemlerini görmek için ilk parametre olarak `-v` debug seçene
 
 ![alt text](https://github.com/ska42/push_swap/blob/main/img/option_debug_example.png?raw=true)
 
-## Testçi
+## Test
 
 `script.sh` adında bir bash betiği vardır; bu betik n boyutunda bir dizi oluşturur, karıştırır ve ardından `push_swap | checker` komutunu x kez test eder.
 
